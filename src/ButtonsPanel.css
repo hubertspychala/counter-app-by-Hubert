@@ -1,0 +1,16 @@
+button {
+  margin: 10px 0 10px 10px;
+  padding: 10px;
+  background-color: cornflowerblue;
+  color: #fff;
+  border: 2px solid darkblue;
+  border-radius: 10px;
+  transition: 0.2s;
+}
+
+button:hover {
+  background: #fff;
+  color: cornflowerblue;
+  outline: 0;
+  cursor: pointer;
+}
